@@ -3,4 +3,4 @@
 # Author: @thu4nvd
 
 echo "This script for testing travis test online"
-echo "I am trying to break something ..
+echo "I am trying to break something .."
